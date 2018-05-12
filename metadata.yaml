@@ -1,0 +1,36 @@
+_repo: Hymns-Songs-and-Fables-for-Young-People_16688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Follen, Eliza Lee Cabot
+    aliases:
+    - Follen, Mrs. (Eliza Lee)
+    - Cabot, Eliza Lee
+    - Follen, Charles Theodore Christian, Mrs.
+    birthdate: 1787
+    deathdate: 1860
+    gutenberg_agent_id: '1362'
+    url: http://www.gutenberg.org/2009/agents/1362
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lee_Cabot_Follen
+description: Remember the slave -- Children in slavery -- The little slave's wish.
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Juvenile literature'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s songs'
+- !lcsh 'Fables'
+- !lcsh 'Hymns -- Juvenile'
+- !lcc 'PZ'
+title: Hymns, Songs, and Fables, for Young People
+url: http://www.gutenberg.org/ebooks/16688
